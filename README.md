@@ -1,0 +1,1 @@
+Implemented a deep-fake audio detection system. Worked on top of a research paper whose link is given in the report attached. Explored hyper-parameter fine-tuning and deep learning as options to get improved performance.
